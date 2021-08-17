@@ -1,0 +1,19 @@
+---
+title: "Welcome to The data salaryman"
+description: |
+  Welcome to The data salaryman, where we talk about solving 
+  problems, ordinary work, and data. 
+author:
+  - name: Jose Endrinal 
+    url: https://twitter.com/datasalaryman
+date: 08-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+This is a blog that logs together all the stuctured thinking I have in the data space. Rather than answering questions over and over again, I'll link people to the posts on this blog for a more complete answer to their questions rather than half-baked, one-off answers. This also gives people a chance to pick apart what I've written so that I can better my thinking around solving problems with data. 
+
+This blog will also give me a chance to clarify my own ideas. The discipline of writing frequently about the topic will help me sift through what is useful and what is nonsense. This will become important later when I have to execute on my thinking when I do data work for my clients. Well thought through ideas are more likely to be good implementations later on. 
+
+Cheers!
