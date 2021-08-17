@@ -4,9 +4,14 @@ description: |
   The data salaryman
 output_dir: "_site"
 navbar:
+  logo:
+    image: static/images/android-chrome-192x192.png
+    href: index.html
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
 output: distill::distill_article
+base_url: index.html
+favicon: static/images/favicon.ico
