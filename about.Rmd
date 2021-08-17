@@ -1,0 +1,14 @@
+---
+title: "About me"
+---
+
+Hello!
+
+I am a tinkerer with a consulting (financial risk, sales operations) background that [teaches R](https://www.youtube.com/playlist?list=PLnDEAy0fiVqxipyph_1lA_Beer_Fc8s0l) and solves data problems from time to time. 
+
+If you want to chat, feel free to reach out to me on Twitter [\@datasalaryman](https://twitter.com/datasalaryman), or send me an [email](mailto:jgendrinal@up.edu.ph) at jgendrinal@up.edu.ph. 
+
+## Colophon
+
+This site was built with the [distill R package](https://rstudio.github.io/distill/) and is hosted on [Github](https://pages.github.com/). 
+
