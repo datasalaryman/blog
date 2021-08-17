@@ -1,0 +1,19 @@
+---
+title: "Where do spreadsheets do well?"
+description: |
+  A deep dive into spreadsheet tools—where do they fail and where do
+  they shine?
+author:
+  - name: Jose Endrinal
+    url: https://twitter.com/datasalaryman
+date: 08-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Most entry-level data work is done on spreadsheets. For consultants and analysts, worksheets are the data storage, the data transformation layer, and the final chart layer of a data-driven project. Most offices are equipped with a Microsoft Office suite, and all employees with work with Microsoft Excel spreadsheets at some point. 
+
+However in the data space, spreadsheets are a polarizing topic for understandable reasons. Some people have had personal frustrations using the tool (myself included). Some people insist that spreadsheets are the most consistently reliable way to do data work. Instead of advocating for or against spreadsheets, this blog post will show where spreadsheet tools might fail, and where they shine in data work today. 
+
+
